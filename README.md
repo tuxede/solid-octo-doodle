@@ -1,2 +1,2 @@
 # solid-octo-doodle
-test repository for learnig
+test repository for learning
